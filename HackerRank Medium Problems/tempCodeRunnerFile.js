@@ -1,2 +1,3 @@
-		console.log(firstCharac);
-		console.log(i);
+if (!prevCosts[diff]) {
+				prevCosts[cost[i]] = i;
+			}
