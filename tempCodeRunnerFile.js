@@ -1,4 +1,2 @@
-if (minGap === 50) {
-		console.log(arr[startIndex]);
-		console.log(arr[endIndex]);
-	}
+	this.head.prev = this.tail;
+		this.tail.next = this.head;
